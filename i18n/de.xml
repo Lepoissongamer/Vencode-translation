@@ -40,13 +40,13 @@
     <string key="settings.performance.forceShiki.description">Erzwingt einen optimierten ShikiCodeblocks-Modus, um die Leistung zu verbessern.</string>
     <string key="settings.performance.viewerToggle.title">Leistungsschaltfläche im Viewer aktivieren</string>
 
-    <string key="action.insert">Datei in den Chat einfügen</string>
-    <string key="action.insertAndSend">Datei in den Chat einfügen und Nachricht senden</string>
+    <string key="action.insert">Datei einfügen</string>
+    <string key="action.insertAndSend">Datei einfügen und senden</string>
     <string key="action.save">Datei auf dem Computer speichern</string>
 
-    <string key="viewer.search.placeholder">Suchen...</string>
-    <string key="viewer.search.previous">Vorherige</string>
-    <string key="viewer.search.next">Nächste</string>
+    <string key="viewer.search.placeholder">Suche...</string>
+    <string key="viewer.search.previous">Vorheriges Ergebnis</string>
+    <string key="viewer.search.next">Nächstes Ergebnis</string>
     <string key="viewer.copyAll">Alles kopieren</string>
     <string key="viewer.editFile">Datei bearbeiten</string>
     <string key="viewer.cancelEdit">Bearbeitung abbrechen</string>
@@ -59,8 +59,8 @@
     <string key="viewer.action.insertAndSend.title">Datei in den Chat einfügen und senden ({shortcut})</string>
     <string key="viewer.action.save.short">Speichern</string>
     <string key="viewer.action.save.title">Datei auf dem Computer speichern ({shortcut})</string>
-    <string key="viewer.performance.on">Perf: EIN</string>
-    <string key="viewer.performance.off">Perf: AUS</string>
+    <string key="viewer.performance.on">Perf: An</string>
+    <string key="viewer.performance.off">Perf: Aus</string>
     <string key="viewer.loading">Lädt...</string>
     <string key="viewer.openFullFile">Vollständige Datei öffnen</string>
 
